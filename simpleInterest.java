@@ -14,7 +14,7 @@ public class simpleInterest{
 		int sim_num=p*r*t;
 		int sim_den=100;
                                            int sim_interest=sim_num/sim_den;
-		System.out.println(sim_interest);
+		System.out.println("Your simple  interest is :-  "+sim_interest);
 	
 
 
