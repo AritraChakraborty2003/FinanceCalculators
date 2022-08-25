@@ -13,7 +13,7 @@ public class simpleInterest{
 
 		int sim_num=p*r*t;
 		int sim_den=100;
-                                           int sim_interest=sim_sum/sim_den;
+                                           int sim_interest=sim_num/sim_den;
 		System.out.println(sim_interest);
 	
 
